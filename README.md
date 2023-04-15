@@ -1,4 +1,4 @@
-### Yaş İstatistikleri
+## Yaş İstatistikleri
 
 > bu proje [iCodeThis](https://www.icodethis.com/app) tarafından verilmiştir. proje kaynağı [CodePen](https://codepen.io/uzeyir-yariz/pen/XWxdNVP) adresinden ulaşabilirsiniz
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Age Statistics
+## Age Statistics
 
 > this project is provided by [iCodeThis](https://www.icodethis.com/app). project resource [CodePen](https://codepen.io/uzeyir-yariz/pen/XWxdNVP)
 
